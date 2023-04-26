@@ -3,7 +3,10 @@ This project demostrates that I can utialize common practices for GitHub project
 project (python hangman) as a file to play around with.
 
 ## Python Hangman
-This project is a hangman game a
+This project is a hangman game that can be run in your terminal.
+
+## License
+GNU General License
 
 this is tomas jauregeu, this is my pull request 
 
