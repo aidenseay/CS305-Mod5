@@ -5,3 +5,5 @@ project (python hangman) as a file to play around with.
 ## Python Hangman
 This project is a hangman game a
 
+this is tomas jauregeu, this is my pull request 
+
